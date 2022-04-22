@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ## if you want to used it clone this repo and run npm install command 
-its normal used the router and material uI and also used react-dom
+its normal used the router and material uI and also used react react-dom
